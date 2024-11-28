@@ -1,6 +1,8 @@
 i sincerly apologize for the naming of the project 
 while creating so many projects and making new proejcts on flutter i could not name it the same as others
 
+for the code part open up the lib folder 
+
 # fa_assign3
 
 A new Flutter project.

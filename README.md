@@ -1,5 +1,5 @@
 i sincerly apologize for the naming of the project 
-while creating so many projects and makign enw proejcts on flutter i could not name it the same as others
+while creating so many projects and making new proejcts on flutter i could not name it the same as others
 
 # fa_assign3
 
